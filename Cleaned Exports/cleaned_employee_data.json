@@ -1,0 +1,42 @@
+[
+    {
+        "employee_id":101,
+        "employee_name":"John Smith",
+        "department":"Sales",
+        "salary":55000,
+        "hire_date":1642204800000,
+        "full_time":true
+    },
+    {
+        "employee_id":102,
+        "employee_name":"Maria Lopez",
+        "department":"Marketing",
+        "salary":62000,
+        "hire_date":1625875200000,
+        "full_time":false
+    },
+    {
+        "employee_id":103,
+        "employee_name":"Kevin Brown",
+        "department":"IT",
+        "salary":58000,
+        "hire_date":1679443200000,
+        "full_time":true
+    },
+    {
+        "employee_id":104,
+        "employee_name":"Aisha Khan",
+        "department":"Human Resources",
+        "salary":72000,
+        "hire_date":1604534400000,
+        "full_time":true
+    },
+    {
+        "employee_id":105,
+        "employee_name":"Daniel Lee",
+        "department":"Finance",
+        "salary":69000,
+        "hire_date":1568764800000,
+        "full_time":true
+    }
+]
